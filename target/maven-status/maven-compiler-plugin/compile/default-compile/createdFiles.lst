@@ -1,0 +1,6 @@
+Pages\ContactPage.class
+PomFramework\BaseTest.class
+ExtentReportListener\ExtentReport.class
+PomFramework\Utils.class
+Pages\LoginPage.class
+Pages\HomePage.class
