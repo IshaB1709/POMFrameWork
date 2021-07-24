@@ -11,9 +11,14 @@ What else?
 As this is a Test Framework, i have also included the Data Driven Test approach to verify test cases with multiple test data using MS-Excel.
 
 Key Learning:
+
 Programming Language- JAVA
+
 Automation Framework- Selenium
+
 Design Model- Page Object
+
 Test Approach- Data Driven using MS-Excel (using Apache POI)
+
 Testing FrameWork- TestNG
 
