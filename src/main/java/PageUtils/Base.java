@@ -23,7 +23,7 @@ public class Base {
 		
 		if(Browser.equals("chrome")) {
 		
-			System.setProperty("webdriver.chrome.driver", "C:\\Users\\isha2\\OneDrive\\Desktop\\Code Repository\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "C:\\Drivers\\chromedriver.exe");
 			 driver = new ChromeDriver();
 		}
 		
